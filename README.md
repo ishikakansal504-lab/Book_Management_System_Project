@@ -1,4 +1,4 @@
-Book Management System (C Language)
+# Book Management System Project (C Language)
 A console-based Book Management System developed in C that helps manage books and customer transactions efficiently. The system allows users to add, display, and search books, as well as handle book issuing and returns with automated late fee calculation.
 
 Features:
